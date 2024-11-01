@@ -1,0 +1,11 @@
+import "./modules/timer.js";
+import "./modules/burger.js";
+import "./modules/acc.js";
+import "./modules/fetch.js";
+import "./modules/burgerAnimation.js";
+import "./modules/fly.js";
+import "./modules/ajax.js";
+import "./modules/style.js";
+import "./modules/modal.js";
+// import "./modules/regEXP.js";
+import './modules/validate.js';
